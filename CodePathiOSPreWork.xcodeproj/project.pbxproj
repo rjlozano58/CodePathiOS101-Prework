@@ -57,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				B92A25F12DC703D900127269 /* AppDelegate.swift */,
+				B92A26052DC7D96100127269 /* New Group */,
 				B92A25F32DC703D900127269 /* SceneDelegate.swift */,
 				B92A25F52DC703D900127269 /* ViewController.swift */,
 				B92A25F72DC703D900127269 /* Main.storyboard */,
@@ -65,6 +66,13 @@
 				B92A25FF2DC703DA00127269 /* Info.plist */,
 			);
 			path = CodePathiOSPreWork;
+			sourceTree = "<group>";
+		};
+		B92A26052DC7D96100127269 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
